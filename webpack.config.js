@@ -61,7 +61,7 @@ module.exports = {
       chunkFilename: '[id].css'
     }),
     new HtmlWebpackPlugin({
-      title: 'who dat'
+      title: 'zhelezyaka'
     })
     // new CopyPlugin({
     //   patterns: [{ from: 'src/fonts', to: 'fonts' }]
